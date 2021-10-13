@@ -1,5 +1,4 @@
 {
-  "hompage": "https://hyunjunma.github.io/junma-popol",
   "name": "begin-react",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +26,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "hompage": "https://hyunjunma.github.io/junma-popol",
   "eslintConfig": {
     "extends": [
       "react-app",

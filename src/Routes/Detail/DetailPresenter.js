@@ -96,7 +96,10 @@ const DetailPresenter = ({ result, error, loading }) =>
         <Container>
             <>
                 <Helmet>
-                    <title>Detail | Reactflix</title>
+                    <title>{result.original_title
+                        ? result.original_title
+                        : result.original_name
+                    }</title>
                 </Helmet>
                 <FlixStyle />
             </>

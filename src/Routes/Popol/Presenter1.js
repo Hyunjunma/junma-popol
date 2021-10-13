@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 //Popol start 레이아웃
 
@@ -311,7 +312,7 @@ const UseInfo = ({ Delay = 'number' }) => {
     const javascript = 40;
     const jquery = 80;
     const php = 30;
-    const react = 40;
+    const react = 30;
 
     const [state, setState] = useState({
         opacity: 0,
@@ -338,12 +339,12 @@ const UseInfo = ({ Delay = 'number' }) => {
                 opacity: 1,
                 right: 0,
                 delay: Delay,
-                html5: 95,
-                css3: 95,
-                javascript: 40,
-                jquery: 80,
-                php: 30,
-                react: 40,
+                html5: html5,
+                css3: css3,
+                javascript: javascript,
+                jquery: jquery,
+                php: php,
+                react: react,
                 hvalue: 0,
                 cvalue: 0,
                 jvalue: 0,
@@ -513,6 +514,7 @@ const UseInfo = ({ Delay = 'number' }) => {
                 </Paper>
                 <Intro>
                     좌 중[main] 우 형태의 슬라이드와 슬라이드 넘김에 따라 변경되는 txt이벤트 설정
+                    <Link to="/react-flix">React-flix</Link>
                 </Intro>
             </Section1>
             <Section2>우</Section2>
