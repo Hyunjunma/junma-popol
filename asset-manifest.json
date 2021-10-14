@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.js": "/junma-popol/static/js/main.936db020.chunk.js",
-    "main.js.map": "/junma-popol/static/js/main.936db020.chunk.js.map",
+    "main.js": "/junma-popol/static/js/main.01edf6ac.chunk.js",
+    "main.js.map": "/junma-popol/static/js/main.01edf6ac.chunk.js.map",
     "runtime-main.js": "/junma-popol/static/js/runtime-main.d6edbf14.js",
     "runtime-main.js.map": "/junma-popol/static/js/runtime-main.d6edbf14.js.map",
-    "static/js/2.df21da12.chunk.js": "/junma-popol/static/js/2.df21da12.chunk.js",
-    "static/js/2.df21da12.chunk.js.map": "/junma-popol/static/js/2.df21da12.chunk.js.map",
+    "static/js/2.8dcfc419.chunk.js": "/junma-popol/static/js/2.8dcfc419.chunk.js",
+    "static/js/2.8dcfc419.chunk.js.map": "/junma-popol/static/js/2.8dcfc419.chunk.js.map",
     "index.html": "/junma-popol/index.html",
-    "static/js/2.df21da12.chunk.js.LICENSE.txt": "/junma-popol/static/js/2.df21da12.chunk.js.LICENSE.txt",
-    "static/media/noPosterSmall.png": "/junma-popol/static/media/noPosterSmall.eab9317a.png"
+    "static/js/2.8dcfc419.chunk.js.LICENSE.txt": "/junma-popol/static/js/2.8dcfc419.chunk.js.LICENSE.txt",
+    "static/media/CSS3-logo.png": "/junma-popol/static/media/CSS3-logo.d7ea2a9c.png",
+    "static/media/HTML5-logo.png": "/junma-popol/static/media/HTML5-logo.33745ead.png",
+    "static/media/PHP-logo.png": "/junma-popol/static/media/PHP-logo.502c1a90.png",
+    "static/media/jQuery-logo.png": "/junma-popol/static/media/jQuery-logo.b34bd01e.png",
+    "static/media/js-logo.png": "/junma-popol/static/media/js-logo.c5673894.png",
+    "static/media/noPosterSmall.png": "/junma-popol/static/media/noPosterSmall.eab9317a.png",
+    "static/media/user.png": "/junma-popol/static/media/user.ca680b47.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d6edbf14.js",
-    "static/js/2.df21da12.chunk.js",
-    "static/js/main.936db020.chunk.js"
+    "static/js/2.8dcfc419.chunk.js",
+    "static/js/main.01edf6ac.chunk.js"
   ]
 }
