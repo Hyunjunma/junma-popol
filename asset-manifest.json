@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/junma-popol/static/css/main.2c8858c5.chunk.css",
-    "main.js": "/junma-popol/static/js/main.02b53df0.chunk.js",
-    "main.js.map": "/junma-popol/static/js/main.02b53df0.chunk.js.map",
+    "main.js": "/junma-popol/static/js/main.d1d16799.chunk.js",
+    "main.js.map": "/junma-popol/static/js/main.d1d16799.chunk.js.map",
     "runtime-main.js": "/junma-popol/static/js/runtime-main.d6edbf14.js",
     "runtime-main.js.map": "/junma-popol/static/js/runtime-main.d6edbf14.js.map",
     "static/js/2.145f8c60.chunk.js": "/junma-popol/static/js/2.145f8c60.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.d6edbf14.js",
     "static/js/2.145f8c60.chunk.js",
     "static/css/main.2c8858c5.chunk.css",
-    "static/js/main.02b53df0.chunk.js"
+    "static/js/main.d1d16799.chunk.js"
   ]
 }
