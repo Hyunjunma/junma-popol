@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/junma-popol/static/js/main.c261aca1.chunk.js",
-    "main.js.map": "/junma-popol/static/js/main.c261aca1.chunk.js.map",
+    "main.js": "/junma-popol/static/js/main.efae46cf.chunk.js",
+    "main.js.map": "/junma-popol/static/js/main.efae46cf.chunk.js.map",
     "runtime-main.js": "/junma-popol/static/js/runtime-main.d6edbf14.js",
     "runtime-main.js.map": "/junma-popol/static/js/runtime-main.d6edbf14.js.map",
     "static/js/2.9f1545c1.chunk.js": "/junma-popol/static/js/2.9f1545c1.chunk.js",
@@ -36,6 +36,6 @@
   "entrypoints": [
     "static/js/runtime-main.d6edbf14.js",
     "static/js/2.9f1545c1.chunk.js",
-    "static/js/main.c261aca1.chunk.js"
+    "static/js/main.efae46cf.chunk.js"
   ]
 }
