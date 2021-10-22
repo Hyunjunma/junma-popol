@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/junma-popol/static/js/main.750c8da4.chunk.js",
-    "main.js.map": "/junma-popol/static/js/main.750c8da4.chunk.js.map",
+    "main.js": "/junma-popol/static/js/main.17cb4e14.chunk.js",
+    "main.js.map": "/junma-popol/static/js/main.17cb4e14.chunk.js.map",
     "runtime-main.js": "/junma-popol/static/js/runtime-main.d6edbf14.js",
     "runtime-main.js.map": "/junma-popol/static/js/runtime-main.d6edbf14.js.map",
-    "static/js/2.02df9f30.chunk.js": "/junma-popol/static/js/2.02df9f30.chunk.js",
-    "static/js/2.02df9f30.chunk.js.map": "/junma-popol/static/js/2.02df9f30.chunk.js.map",
+    "static/js/2.673f6c5c.chunk.js": "/junma-popol/static/js/2.673f6c5c.chunk.js",
+    "static/js/2.673f6c5c.chunk.js.map": "/junma-popol/static/js/2.673f6c5c.chunk.js.map",
     "index.html": "/junma-popol/index.html",
-    "static/js/2.02df9f30.chunk.js.LICENSE.txt": "/junma-popol/static/js/2.02df9f30.chunk.js.LICENSE.txt",
+    "static/js/2.673f6c5c.chunk.js.LICENSE.txt": "/junma-popol/static/js/2.673f6c5c.chunk.js.LICENSE.txt",
     "static/media/CSS3-logo.png": "/junma-popol/static/media/CSS3-logo.d7ea2a9c.png",
     "static/media/HTML5-logo.png": "/junma-popol/static/media/HTML5-logo.33745ead.png",
     "static/media/MoRa1.PNG": "/junma-popol/static/media/MoRa1.e807b5a5.PNG",
@@ -31,7 +31,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6edbf14.js",
-    "static/js/2.02df9f30.chunk.js",
-    "static/js/main.750c8da4.chunk.js"
+    "static/js/2.673f6c5c.chunk.js",
+    "static/js/main.17cb4e14.chunk.js"
   ]
 }
